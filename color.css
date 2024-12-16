@@ -1,0 +1,16 @@
+.borde {
+    border: 5px black solid;
+    text-align: center;
+    font-family: 'Roboto Slab',sans-serif;
+}
+#fondo{
+    background-color:rgb(210, 180, 140)
+}
+
+.punto{
+    text-align: center;
+}
+.guion{
+    text-align: center;
+    background-color: bisque 15px ;
+}
